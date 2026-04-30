@@ -21,9 +21,9 @@
 
 A: AgentMindset 负责任务**编排和决策**（大脑），AgentKeeper 负责任务**执行**（手脚）。两者可独立使用，也可以配合使用。
 
-### Q: Aithna 和 Ollama 有什么不同？
+### Q: Aitna 是什么？
 
-A: Aitna 专注于与 HenosisLab 产品矩阵的深度集成，同时保持对 Ollama API 的兼容性。
+A: Aitna 一个用 Rust 构建、内置极致优化、对所有产品透明提供本地模型能力的共享基础设施。
 
 ### Q: CCBL 协议允许商业使用吗？
 
