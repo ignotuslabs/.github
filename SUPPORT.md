@@ -23,7 +23,7 @@ A: AgentMindset 负责任务**编排和决策**（大脑），AgentKeeper 负责
 
 ### Q: Aithna 和 Ollama 有什么不同？
 
-A: Aithna 专注于与 HenosisLab 产品矩阵的深度集成，同时保持对 Ollama API 的兼容性。
+A: Aitna 专注于与 HenosisLab 产品矩阵的深度集成，同时保持对 Ollama API 的兼容性。
 
 ### Q: CCBL 协议允许商业使用吗？
 
