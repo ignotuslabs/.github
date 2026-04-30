@@ -5,7 +5,7 @@
 | 项目 | 支持状态 |
 |------|----------|
 | AgentKeeper | ✅ 开发中，最新提交受支持 |
-| Aithna | ✅ 开发中，最新提交受支持 |
+| Aitna | ✅ 开发中，最新提交受支持 |
 | 其他项目 | ⚠️ 预发布阶段，安全更新按需提供 |
 
 ## 报告漏洞
@@ -14,7 +14,7 @@
 
 ### 报告方式
 
-1. 发送邮件至：`security@henosislab.dev`
+1. 发送邮件至：`security@henosislab.com`
 2. 使用 [GitHub 安全公告](https://github.com/henosislab/henosislab/security/advisories/new)（推荐）
 
 ### 预期响应
