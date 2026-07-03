@@ -1,40 +1,24 @@
-# IgnotusLabs
+<div align="center" style="background:#05050c; padding:40px 20px; border-radius:10px; color:#e1e7f5; font-family:monospace;">
 
-> 智能的起源无迹可循，我们穿行于认知夹缝，以探索撕开迷雾，深挖智能本源真相。
+<!-- 横幅，没有图就整行删掉 -->
+<img width="100%" style="border-radius:6px; margin-bottom:30px;" alt="Void Space" src="./assets/banner.png">
 
-IgnotusLabs，专注解构、推演、溯源智能本质的实验室。
+<h1 style="letter-spacing:4px; font-weight:300; margin:0;">IGNOTUS LABS</h1>
 
----
+<img style="margin:20px 0;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&width=600&lines=Traverse+the+unknown;No+roadmap,+only+explore&color=9d7dff&background=05050c">
 
-## 产品矩阵
+<p style="color:#8897b9; max-width:600px; line-height:1.7;">
+We explore uncharted edges of computation and cryptography.<br>
+All work without commercial constraints.
+</p>
 
-| 项目 | 描述 | 状态 |
-|------|------|------|
-| [Aitna](https://github.com/henosislab/aithna) | 本地模型运行时，轻量级推理引擎 | 🔄 开发中 |
-| [Edger](https://github.com/henosislab/edger-editor) | AI 增强的文本编辑器 | 📝 规划中 |
-| [Weft](https://github.com/henosislab/weft-terminal) | AI 原生 SSH 客户端 | 🔄 开发中 |
-| [CCBL License](https://github.com/henosislab/ccbl-license) | 自定义开源协议框架 | 📄 稳定 |
+<div style="margin:30px 0; color:#707e9c;">✦ · ✧ · ✦</div>
 
----
+<h3 style="color:#c9d4f0;">Core Exploration</h3>
+<p style="color:#8897b9;">OwnSigil | Weft | CosmicCheck</p>
 
-## 核心理念
+<div style="margin-top:35px; font-size:13px; color:#5c6880;">
+The unknown is our only frontier
+</div>
 
-- **本地优先**：数据主权归属用户
-- **模块化**：每个组件可独立使用
-- **开放协议**：CCBL 协议保障生态健康
-
----
-
-## 参与贡献
-
-我们欢迎所有形式的贡献。
-
-📖 阅读 [贡献指南](https://github.com/henosislab/.github/blob/main/CONTRIBUTING.md)  
-🐛 提交 [Issue](https://github.com/henosislab/henosislab/issues)  
-💬 讨论 [Discussions](https://github.com/orgs/henosislab/discussions)
-
----
-
-## 协议
-
-除特殊声明外，本组织下的代码遵循 [CCBL License](https://github.com/ccbl-license/ccbl-license)。
+</div>
