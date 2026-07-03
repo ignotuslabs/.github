@@ -6,9 +6,9 @@
 
 <br>
 
-[GitHub](https://github.com/ignotuslabs) · [Website](https://ignotuslabs.com) · [Twitter](https://twitter.com/ignotuslabs) · [Contact](mailto:hello@ignotuslabs.com)
+[GitHub](https://github.com/ignotuslabs) · [Website](https://ignotuslabs.com) · [Contact](mailto:hello@ignotuslabs.com)
 
-![未知探索](https://img.shields.io/badge/未知-探索-8a7f6e?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBmaWxsPSIjOGE3ZjZlIiBkPSJNOCAwQzMuNiAwIDAgMy42IDAgOHMzLjYgOCA4IDggOC0zLjYgOC04LTMuNi04LTgtOHptMCAxNGMtMy4zIDAtNi0yLjctNi02czIuNy02IDYtNiA2IDIuNyA2IDYtMi43IDYtNiA2eiIvPjwvc3ZnPg==)
+![谜之起源](https://img.shields.io/badge/谜之-起源-8a7f6e?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgdmlld0JveD0iMCAwIDE2IDE2Ij48cGF0aCBmaWxsPSIjOGE3ZjZlIiBkPSJNOCAwQzMuNiAwIDAgMy42IDAgOHMzLjYgOCA4IDggOC0zLjYgOC04LTMuNi04LTgtOHptMCAxNGMtMy4zIDAtNi0yLjctNi02czIuNy02IDYtNiA2IDIuNyA2IDYtMi43IDYtNiA2eiIvPjwvc3ZnPg==)
 ![Est. 2026](https://img.shields.io/badge/Est.-2026-8a7f6e?style=flat-square)
 
 </div>
@@ -72,5 +72,5 @@ Est. 2026 —— 没有投资人。没有路线图。只有工作本身。[refer
 ---
 
 <div align="center">
-  <sub>Ignótus Labs · The Unknown has structure.</sub>
+  <sub>Ignotus Labs · The Unknown has structure.</sub>
 </div>
